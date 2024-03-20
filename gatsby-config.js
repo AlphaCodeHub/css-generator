@@ -5,8 +5,8 @@ module.exports = {
     title: 'CSS Generator by AlphaCode',
     description: 'Generate CSS (+ HTML) code with simple UI, by AlphaCode',
     keywords: 'css, css-generator, react, gatsby, bulma',
-    author: 'Potchara Puttawanchai',
-    siteUrl: 'https://css-generator.netlify.app',
+    author: 'shahroz shahid',
+    siteUrl: 'https://csscode.netlify.app/',
   },
   plugins: [
     'gatsby-plugin-sass',
