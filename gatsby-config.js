@@ -2,8 +2,8 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'CSS Generator by Zinglecode',
-    description: 'Generate CSS (+ HTML) code with simple UI, by Zinglecode',
+    title: 'CSS Generator by AlphaCode',
+    description: 'Generate CSS (+ HTML) code with simple UI, by AlphaCode',
     keywords: 'css, css-generator, react, gatsby, bulma',
     author: 'Potchara Puttawanchai',
     siteUrl: 'https://css-generator.netlify.app',
@@ -15,7 +15,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'CSS Generator by Zinglecode',
+        name: 'CSS Generator by AlphaCodeHub',
         short_name: 'CSS Gen',
         start_url: '/',
         display: 'standalone',
