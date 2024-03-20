@@ -1,6 +1,6 @@
-# CSS Generator by Zinglecode
+# CSS Generator by AlphaCodeHub
 
-https://css-generator.netlify.app/
+https://csscode.netlify.app/
 
 Generate CSS code by using simple UI, created by Gatsby React framework.
 
