@@ -1,6 +1,6 @@
 {
   "name": "css-generator",
-  "description": "Generate CSS (+ HTML) code with simple UI, by Zinglecode",
+  "description": "Generate CSS (+ HTML) code with simple UI, by AlphaCodeHub",
   "keywords": [
     "css",
     "css-generator",
@@ -9,14 +9,14 @@
     "bulma"
   ],
   "version": "1.3.1",
-  "author": "Potchara Puttawanchai",
-  "homepage": "https://css-generator.netlify.app/",
+  "author": "shahroz shahid",
+  "homepage": "https://csscode.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/potchangelo/css-generator.git"
+    "url": "https://github.com/AlphaCodeHub/css-generator/.git"
   },
   "bugs": {
-    "url": "https://github.com/potchangelo/css-generator.git/issues"
+    "url": "https://github.com/AlphaCodeHub/css-generator.git/issues"
   },
   "license": "MIT",
   "engines": {
